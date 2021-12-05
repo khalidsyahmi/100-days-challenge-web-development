@@ -1,0 +1,65 @@
+h1 {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  color: rgb(205, 0, 212);
+  margin: 0;
+}
+
+span {
+  font-size: 30px;
+  color: crimson;
+}
+p {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  color: rgb(165, 16, 16);
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+#day-four-challenge {
+  color: rgb(255, 166, 0);
+  font-weight: bold;
+  font-size: large;
+}
+#header-profile {
+  color: rgb(17, 0, 255);
+  font-weight: bold;
+  font-size: 44px;
+  margin: 0;
+}
+
+img {
+  width: 300px;
+  height: 250px;
+  border-radius: 50px;
+  border: 10px solid rgba(206, 99, 0, 0.863);
+}
+
+body {
+  text-align: center;
+  background-color: beige;
+  margin: 50px;
+}
+
+header {
+  background-color: coral;
+  border-radius: 20px;
+  border: 4px dashed black;
+  width: 800px;
+  margin: 100px auto 70px auto;
+}
+
+header img {
+  margin-top: -50px;
+  box-shadow: 3px 3px 5px wheat;
+}
+
+header p {
+  margin: 24px;
+}
+/* Comments here */

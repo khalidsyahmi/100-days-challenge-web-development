@@ -1,0 +1,100 @@
+img {
+  width: 250px;
+  height: 200px;
+  border-radius: 70px;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+}
+p {
+  font-family: "Fira Sans", sans-serif;
+}
+a {
+  font-weight: lighter;
+  background-color: orangered;
+  border-radius: 4px;
+  font-size: 24px;
+  padding: 20px 48px;
+  border: 5px solid cyan;
+  display: inline-block; /* include inline and block to group in Header block */
+}
+a:hover {
+  font-weight: bolder;
+  text-decoration: overline;
+  color: red;
+  background-color: aliceblue;
+}
+body {
+  background-color: rgb(3, 3, 3);
+  margin: 50px;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 45px;
+}
+
+#header {
+  color: blueviolet;
+  font-size: 45px;
+}
+
+/* #challenge-one {
+  color: aqua;
+  font-size: 22px;
+}
+
+#challenge-two {
+  color: snow;
+  font-size: 22px;
+}
+#challenge-three {
+  color: rgb(251, 255, 0);
+  font-size: 22px;
+} */
+
+ol {
+  width: 600px;
+  margin: 36px auto 40px auto;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  background-color: olivedrab;
+  border-radius: 8px;
+  margin: 24px;
+  padding: 1px;
+  box-shadow: -12px -12px 8px whitesmoke; /* BoxShadow */
+}
+
+/* #description {
+  color: aliceblue;
+  margin-bottom: 36px;
+} */
+
+header p {
+  color: aliceblue;
+  margin: 12px;
+  font-size: 20px;
+}
+
+h2 {
+  color: springgreen;
+  font-family: "Oswald", sans-serif;
+}
+
+/* main p {
+  margin: 12px;
+   color: aliceblue;
+} */
+
+.daily-goal {
+  color: aqua;
+  font-size: 22px;
+}
+
+.highlight-goal {
+  background-color: rgb(49, 73, 0);
+}
